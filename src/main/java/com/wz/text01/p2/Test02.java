@@ -88,6 +88,7 @@ public class Test02 extends TestDefault {
         System.out.println("test git branch hot-fix");
         System.out.println("master test");
         System.out.println("hot-fix text");
+        System.out.println("push test");
 
     }
 }
