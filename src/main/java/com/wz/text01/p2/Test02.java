@@ -82,7 +82,9 @@ public class Test02 extends TestDefault {
             System.out.println(it.next());
         }
 
-        System.out.println("test git!");
+        System.out.println("test git1!");
+        System.out.println("test git2!");
+        System.out.println("test git3!");
 
     }
 }
